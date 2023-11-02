@@ -1,0 +1,5 @@
+# Quotes
+
+Computers are fast; developers keep them slow. – Anonymous
+
+
